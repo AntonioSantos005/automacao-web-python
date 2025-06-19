@@ -32,8 +32,8 @@ Este projeto implementa uma estrutura básica de automação de testes em Python
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/behave-cucumber-structure.git
-cd behave-cucumber-structure
+git clone https://github.com/AntonioSantos005/automacao-web-python.git
+cd automacao-web-python
 ```
 
 2. Crie e ative um ambiente virtual:
@@ -57,9 +57,10 @@ behave
 
 ## 📝 Observações
 
+- Projeto desenvolvido em 2020 para uma demonstração de selenium webdriver com python
 - O projeto é modularizado e segue boas práticas de automação com BDD.
 - Para executar testes com interface gráfica, é necessário ter um driver de navegador (ex: chromedriver) no PATH.
 
 ## 👤 Autor
 
-Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/seu-perfil)
+Antônio de Sousa – [LinkedIn](https://www.linkedin.com/in/antoniosousas/)
